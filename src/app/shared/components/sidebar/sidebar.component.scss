@@ -1,0 +1,23 @@
+:host {
+  .mat-icon {
+    vertical-align: middle;
+    margin-right: 20px;
+      
+  }
+  .profile-card {
+    text-align: center;
+    padding: 0 8px 8px 8px;
+  
+    img {
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+  }
+}
+
+.mat-list-item{
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: medium;
+}
