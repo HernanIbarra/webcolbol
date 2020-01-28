@@ -1,6 +1,25 @@
+.cards{
+    border: none;
+}
 img{
     display: inline-block;
     margin: 0 auto;
     height: 100px;
     width: 100px;
+    margin-top: 40px;
+}
+
+.card-title{
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    color: black;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    color: blue;
 }

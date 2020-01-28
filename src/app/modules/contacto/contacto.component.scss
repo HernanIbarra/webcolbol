@@ -1,5 +1,7 @@
     .my-form {
         color: #305896;
+        text-align: center;
+        font-size: 18pt;
     }
     .my-form .btn-default {
         background-color: #305896;
@@ -13,3 +15,19 @@
     .my-form .form-control {
         border-radius: 0;
     }
+
+    .map-responsive{
+        overflow:hidden;
+        padding-bottom:50%;
+        position:relative;
+        height:0;
+    }
+    .map-responsive iframe{
+        left:0;
+        top:0;
+        height:100%;
+        width:100%;
+        position:absolute;
+    }
+
+

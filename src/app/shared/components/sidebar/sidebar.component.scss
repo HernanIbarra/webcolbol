@@ -14,10 +14,23 @@
       object-fit: cover;
       border-radius: 50%;
     }
+
   }
 }
 
 .mat-list-item{
   font-family: Georgia, 'Times New Roman', serif;
   font-size: medium;
+  color: black;
+  font-size: 14pt;
+}
+
+
+
+.list-item-active{
+  color: green;
+}
+
+a{
+  color: blue;
 }

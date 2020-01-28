@@ -1,13 +1,28 @@
 p{
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 14pt;;
+    font-size: 14pt;
+    color: green;
 }
 
 .card-texts{
     text-align: justify ;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
 }
 
 .card-text{
-    text-align: left ;
+    text-align: left;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
 }
+
+.card-titles{
+    text-align: center ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    color: black;
+}
+
