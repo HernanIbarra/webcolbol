@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-// import { HomeComponent } from './principal/home/home.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { DefaultModule } from './layouts/default/default.module';
 import {MatDialogModule} from '@angular/material/dialog';
@@ -26,7 +25,7 @@ import { NoticiasComponent } from './modules/noticias/noticias.component';
     GaleriaComponent,
     ContactoComponent,
     NoticiasComponent
-    // HomeComponent
+    
   ],
   imports: [
     BrowserModule,
