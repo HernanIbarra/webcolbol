@@ -2,14 +2,25 @@ p{
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
     font-size: 14pt;
-    color: green;
+    color: black;
+    font-weight: 900;
 }
 
 .card-texts{
     text-align: justify ;
-    color: white;
+    color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 14pt;
+    // list-style-image: url(./../../../assets/img/ESCUDO.png);
+    // background-image: url(./../../../assets/img/logo25años.png);
+    // div { background-image: url(./../../../assets/img/ESCUDO.png); }
+}
+
+.card{
+    background-image: url(./../../../assets/img/logo25años.png);
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position: center;
 }
 
 .card-text{
